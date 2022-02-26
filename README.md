@@ -9,3 +9,4 @@ melonNode build app.js
 // 执行加密后的应用
 melonNode app.js.so
 ```
+#### 注：linux下需要安装nodejs环境
