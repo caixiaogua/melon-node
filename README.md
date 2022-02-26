@@ -9,5 +9,5 @@ melonNode build app.js
 // 执行加密后的应用
 melonNode app.js.so
 ```
-#### 欢迎加入QQ群：739721147
 #### 注：linux下需要安装nodejs环境
+#### 欢迎加入QQ群：739721147
