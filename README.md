@@ -2,7 +2,7 @@
 
 ### 可将nodejs项目打包为独立加密文件，打包后仍可跨平台运行
 
-#### 下载：https://github.com/caixiaogua/melon-node/releases
+#### 下载使用：https://github.com/caixiaogua/melon-node/releases
 
 ```
 // 打包项目，假设主文件为app.js
